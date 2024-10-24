@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="https://raw.githubusercontent.com/MosheRivkin/awesome-shadcn-svelte/assets/logo.svg" alt="logo of awesome-shadcn-svelte repository">
+  <img width="400" src="https://raw.githubusercontent.com/MosheRivkin/awesome-shadcn-svelte/95842e6ba15f90a6f019b5c7dbc114cbf8ba7f49/assets/logo.svg" alt="logo of awesome-shadcn-svelte repository">
   <br>
   <br>
 </p>
