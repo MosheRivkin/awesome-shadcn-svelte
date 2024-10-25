@@ -41,7 +41,9 @@
 
 <!-- ## Blocks -->
 
-<!-- ## Templates -->
+## Templates
+
+- [hellob.art](https://github.com/bartvdbraak/hellob.art) - Portfolio website in Svelte, SvelteKit, Tailwind and shadcn-svelte.
 
 <!-- ## Lists -->
 
