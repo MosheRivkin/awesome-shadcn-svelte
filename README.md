@@ -45,6 +45,11 @@
 
 <!-- ## Lists -->
 
+## Tools
+
+- [svelte-zero](https://svelte0.dev) - Generate svelte UIs using shadcn/ui from text prompt.
+
+
 ## Contributors
 
 Thanks goes to all these wonderful people:
