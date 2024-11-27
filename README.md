@@ -23,34 +23,57 @@
   <img src='https://img.shields.io/badge/shadcn-svelte-blue.svg' alt='shadcn tag'>
 </a>
 
+## Core
+
+- [shadcn svelte](https://ui.shadcn.com) - A collection of UI components for
+  Svelte.
+
+- [shadcn svelte 5](https://next.shadcn-svelte.com) - The next version of
+  shadcn-svelte.
+
+- [Bits UI](https://bits-ui.com) - The headless components for Svelte.
+
+- [Melt UI](https://melt-ui.com) - An open-source Svelte library for building
+  high-quality, accessible design systems and web apps.
+
 ## Libraries
 
-- [aceternity svelte](https://aceternity.sveltekit.io) - Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
+- [aceternity svelte](https://aceternity.sveltekit.io) - Copy paste the most
+  trending components and use them in your websites without having to worry
+  about styling and animations.
 
-- [svelte animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion.
+- [svelte animations](https://animation-svelte.vercel.app) - Svelte Magic UI,
+  Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer
+  Motion.
 
 ## Components
 
-- [shadcn phone input svelte](https://github.com/ieedan/shadcn-phone-input-svelte) - A Svelte port of shadcn-phone-input.
+- [shadcn phone input svelte](https://shadcn-phone-input-svelte.vercel.app) - A
+  Svelte port of shadcn-phone-input.
 
 ## Plugins and Extensions
 
-- [vscode shadcn svelte](https://marketplace.visualstudio.com/items?itemName=Selemondev.vscode-shadcn-svelte) - Integrate components and snippets from Shadcn/Svelte directly into your IDE ✨.
+- [vscode shadcn svelte](https://marketplace.visualstudio.com/items?itemName=Selemondev.vscode-shadcn-svelte) -
+  Integrate components and snippets from Shadcn/Svelte directly into your IDE
+  ✨.
 
-- [shadcn ui components manager](https://marketplace.visualstudio.com/items?itemName=Selemondev.vscode-shadcn-svelte) - A plugin for Jetbrain products. It allows you to manage your shadcn-svelte or other shadcn/ui components.
+- [shadcn ui components manager](https://plugins.jetbrains.com/plugin/23479-shadcn-ui-components-manager) -
+  A plugin for Jetbrain products. It allows you to manage your shadcn-svelte or
+  other shadcn/ui components.
 
 <!-- ## Blocks -->
 
 ## Templates
 
-- [hellob.art](https://github.com/bartvdbraak/hellob.art) - Portfolio website in Svelte, SvelteKit, Tailwind and shadcn-svelte.
+- [hellob.art](https://hellob.art) - Portfolio website in Svelte, SvelteKit,
+  Tailwind and shadcn-svelte.
 
 <!-- ## Lists -->
 
 ## Tools
 
-- [svelte-zero](https://svelte0.dev) - Generate svelte UIs using shadcn/ui from text prompt.
-
+- [svelte-zero](https://svelte0.dev) - Generate svelte UIs using shadcn/ui from
+  text prompt.
 
 ## Contributors
 
