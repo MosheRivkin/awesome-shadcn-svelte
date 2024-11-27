@@ -73,6 +73,12 @@
   A plugin for Jetbrain products. It allows you to manage your shadcn-svelte or
   other shadcn/ui components.
 
+## Contributing
+
+Your contributions will be more than welcome! 😊 If you are interested in
+contributing to this list, please read the [CONTRIBUTING.md](CONTRIBUTING.md)
+file.
+
 ## Contributors
 
 Thanks goes to all these wonderful people:
