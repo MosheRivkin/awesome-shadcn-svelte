@@ -25,7 +25,7 @@
 
 ## Core
 
-- [shadcn svelte](https://ui.shadcn.com) - The official website of
+- [shadcn svelte](https://shadcn-svelte.com) - The official website of
   shadcn-svelte.
 
 - [shadcn svelte 5](https://next.shadcn-svelte.com) - The next version of
