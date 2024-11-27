@@ -25,8 +25,8 @@
 
 ## Core
 
-- [shadcn svelte](https://ui.shadcn.com) - A collection of UI components for
-  Svelte.
+- [shadcn svelte](https://ui.shadcn.com) - The official website of
+  shadcn-svelte.
 
 - [shadcn svelte 5](https://next.shadcn-svelte.com) - The next version of
   shadcn-svelte.
@@ -51,6 +51,18 @@
 - [shadcn phone input svelte](https://shadcn-phone-input-svelte.vercel.app) - A
   Svelte port of shadcn-phone-input.
 
+<!-- ## Blocks -->
+
+## Templates
+
+- [hellob.art](https://hellob.art) - Portfolio website in Svelte, SvelteKit,
+  Tailwind and shadcn-svelte.
+
+## Tools
+
+- [svelte-zero](https://svelte0.dev) - Generate svelte UIs using shadcn/ui from
+  text prompt.
+
 ## Plugins and Extensions
 
 - [vscode shadcn svelte](https://marketplace.visualstudio.com/items?itemName=Selemondev.vscode-shadcn-svelte) -
@@ -60,20 +72,6 @@
 - [shadcn ui components manager](https://plugins.jetbrains.com/plugin/23479-shadcn-ui-components-manager) -
   A plugin for Jetbrain products. It allows you to manage your shadcn-svelte or
   other shadcn/ui components.
-
-<!-- ## Blocks -->
-
-## Templates
-
-- [hellob.art](https://hellob.art) - Portfolio website in Svelte, SvelteKit,
-  Tailwind and shadcn-svelte.
-
-<!-- ## Lists -->
-
-## Tools
-
-- [svelte-zero](https://svelte0.dev) - Generate svelte UIs using shadcn/ui from
-  text prompt.
 
 ## Contributors
 
